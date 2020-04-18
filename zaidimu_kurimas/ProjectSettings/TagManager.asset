@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Player1
+  - Player2
+  - Player3
+  - Player4
   layers:
   - Default
   - TransparentFX
@@ -40,4 +44,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2697583009
+    locked: 0
+  - name: New Layer
+    uniqueID: 289799719
+    locked: 0
+  - name: GameCharacters
+    uniqueID: 268219153
     locked: 0
