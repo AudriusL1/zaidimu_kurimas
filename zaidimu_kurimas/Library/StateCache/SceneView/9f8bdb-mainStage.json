@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":2.629838705062866,"y":-3.229281187057495,"z":77.09076690673828},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":27.67673683166504,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":0.7367490530014038,"y":-0.0955597311258316,"z":-0.5530409812927246},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":15.529693603515625,"orthographic":true}
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
