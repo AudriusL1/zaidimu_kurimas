@@ -19,8 +19,11 @@ public class PlayerMovement : MonoBehaviour
     private bool hasExploded = false;
     public bool shoudbedestoryed = false;
 
+
+
     void Start(){
         render = GetComponent<SpriteRenderer>();
+        
     }
     
     // Update is called once per frame
@@ -56,6 +59,8 @@ public class PlayerMovement : MonoBehaviour
 
             // Instantiate(Explosion, gameObject.transform);
         }
+
+        
     }
 
     void FixedUpdate()
@@ -86,8 +91,13 @@ public class PlayerMovement : MonoBehaviour
         if (col.gameObject.tag == "Shield" && hasBomb)
         {
             Debug.Log("Colision");
-            BombContr.ChangeTags(1, 2);
+            BombContr.PassToNext(1);
             Destroy(col.gameObject);
         }
+
     }
+
+
+
+
 }
