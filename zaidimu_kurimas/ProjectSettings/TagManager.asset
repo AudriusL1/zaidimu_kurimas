@@ -6,6 +6,7 @@ TagManager:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   tags:
   - Player1
   - Player2
@@ -13,6 +14,9 @@ TagManager:
   - Player4
   - RandomBuff
   - Shield
+=======
+  tags: []
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
   tags: []
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)

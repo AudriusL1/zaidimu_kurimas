@@ -26,6 +26,9 @@ MonoBehaviour:
     height: 685
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -60,9 +63,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1520
     height: 767
   m_MinSize: {x: 875, y: 542}
+=======
+    width: 1366
+    height: 685
+  m_MinSize: {x: 875, y: 300}
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
     width: 1366
     height: 685
@@ -99,7 +108,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1520
+=======
+    width: 1366
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
     width: 1366
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -132,8 +145,13 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 747
     width: 1520
+=======
+    y: 665
+    width: 1366
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
     y: 665
     width: 1366
@@ -171,6 +189,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1520
     height: 717
   m_MinSize: {x: 706, y: 492}
@@ -178,6 +197,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 8086
 =======
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
@@ -190,6 +211,9 @@ MonoBehaviour:
   controlID: 143
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -217,6 +241,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1048
     height: 717
   m_MinSize: {x: 431, y: 492}
@@ -226,12 +251,15 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
     width: 1038
     height: 635
   m_MinSize: {x: 431, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 1
   controlID: 55
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
@@ -241,6 +269,8 @@ MonoBehaviour:
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 1
   controlID: 55
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -266,6 +296,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1048
     height: 445
   m_MinSize: {x: 402, y: 221}
@@ -273,6 +304,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 8088
 =======
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
@@ -285,6 +318,9 @@ MonoBehaviour:
   controlID: 56
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -310,8 +346,13 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 279
     height: 445
+=======
+    width: 202
+    height: 364
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
     width: 202
     height: 364
@@ -349,15 +390,19 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 279
     y: 0
     width: 769
     height: 445
 =======
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
     x: 202
     y: 0
     width: 836
     height: 364
+<<<<<<< HEAD
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
     x: 202
@@ -370,6 +415,8 @@ MonoBehaviour:
     y: 0
     width: 836
     height: 364
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -400,6 +447,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 445
     width: 1048
     height: 272
@@ -408,6 +456,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 8128
 =======
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
@@ -421,6 +471,9 @@ MonoBehaviour:
   controlID: 122
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -446,8 +499,13 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 494
     height: 272
+=======
+    width: 477
+    height: 271
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
     width: 477
     height: 271
@@ -486,6 +544,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 494
     y: 0
     width: 554
@@ -507,6 +566,12 @@ MonoBehaviour:
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
+    x: 477
+    y: 0
+    width: 561
+    height: 271
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
@@ -514,9 +579,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 20}
   - {fileID: 14}
   m_Selected: 1
+=======
+  - {fileID: 14}
+  m_Selected: 0
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
   - {fileID: 14}
   m_Selected: 0
@@ -548,6 +618,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1048
     y: 0
     width: 472
@@ -562,10 +633,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
     x: 1038
     y: 0
     width: 328
     height: 635
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -600,11 +676,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 501.6
     y: 525.60004
     width: 552
     height: 251
 =======
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
@@ -615,6 +694,9 @@ MonoBehaviour:
     height: 250
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -630,7 +712,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 690, y: 287.5}
+=======
+  m_TargetSize: {x: 407, y: 229}
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
   m_TargetSize: {x: 407, y: 229}
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -656,11 +742,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -276
     m_HBaseRangeMax: 276
     m_VBaseRangeMin: -115
     m_VBaseRangeMax: 115
 =======
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
@@ -671,6 +760,9 @@ MonoBehaviour:
     m_VBaseRangeMax: 114.5
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -696,6 +788,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 552
       height: 230
     m_Scale: {x: 1, y: 1}
@@ -712,10 +805,15 @@ MonoBehaviour:
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
       width: 559
       height: 229
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 279.5, y: 114.5}
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -723,6 +821,7 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -755,6 +854,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
+      x: -279.5
+      y: -114.5
+      width: 559
+      height: 229
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 559, y: 250}
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -794,6 +902,9 @@ MonoBehaviour:
     height: 343
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -806,9 +917,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 423e0000
       m_LastClickedID: 15938
       m_ExpandedIDs: 40fbffffa23d0000aa3d0000423e00009c3e0000aa3e0000
+=======
+      m_SelectedIDs: 683d0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: b8f4ffff
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
       m_SelectedIDs: 683d0000
       m_LastClickedID: 0
@@ -871,11 +988,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 286.4
     y: 80.8
     width: 767
     height: 424
 =======
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
@@ -886,6 +1006,9 @@ MonoBehaviour:
     height: 343
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -905,9 +1028,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 2.6298387, y: -3.2292812, z: 77.09077}
     speed: 2
     m_Value: {x: 2.6298387, y: -3.2292812, z: 77.09077}
+=======
+    m_Target: {x: 0.73674905, y: -0.09555973, z: -0.553041}
+    speed: 2
+    m_Value: {x: 0.73674905, y: -0.09555973, z: -0.553041}
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
     m_Target: {x: 0.73674905, y: -0.09555973, z: -0.553041}
     speed: 2
@@ -975,9 +1104,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 27.676737
     speed: 2
     m_Value: 27.676737
+=======
+    m_Target: 15.529694
+    speed: 2
+    m_Value: 15.529694
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
     m_Target: 15.529694
     speed: 2
@@ -1041,6 +1176,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 384.80002
     y: 73.6
     width: 673
@@ -1055,6 +1191,12 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
+    x: 239.2
+    y: 73.6
+    width: 983
+    height: 434
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
     x: 239.2
@@ -1096,6 +1238,9 @@ MonoBehaviour:
     height: 250
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -1115,6 +1260,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1167,12 +1313,27 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
+    - Assets/Milda/SunnyNotLand
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Milda/SunnyNotLand
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\zaidimu_kurimas\zaidimu_kurimas\zaidimu_kurimas
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
     scrollPos: {x: 0, y: 10}
     m_SelectedIDs: 683d0000
     m_LastClickedID: 15720
     m_ExpandedIDs: 00000000a2370000b4370000b6370000b83700007e39000000ca9a3b
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -1208,7 +1369,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000ac3c000066410000684100006a4100006c4100006e41000070410000724100007441000076410000784100007a410000065700000857000000ca9a3b
+=======
+    m_ExpandedIDs: 00000000a2370000
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
     m_ExpandedIDs: 00000000a2370000
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -1273,9 +1438,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_GridSize: 56
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 217
+=======
+    m_GridSize: 64
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 170
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
     m_GridSize: 64
   m_SkipHiddenPackages: 0
@@ -1324,6 +1495,9 @@ MonoBehaviour:
     height: 250
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
@@ -1338,6 +1512,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1376,6 +1551,8 @@ MonoBehaviour:
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
   m_EditorHideFlags: 1
   m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -1392,11 +1569,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1055.2001
     y: 80.8
     width: 471
     height: 696
 =======
+=======
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
@@ -1407,6 +1587,9 @@ MonoBehaviour:
     height: 614
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
+=======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
 =======
 >>>>>>> parent of 768b228a... Commit(Julius 1 dalis)
