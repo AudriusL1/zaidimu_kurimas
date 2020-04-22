@@ -85,7 +85,7 @@ public class FourthPlayerMovement : MonoBehaviour
 
         if (col.gameObject.tag == "Shield" && hasBomb)
         {
-            BombContr.ChangeTags(4, 1);
+            BombContr.PassToNext(4);
             Destroy(col.gameObject);
         }
 

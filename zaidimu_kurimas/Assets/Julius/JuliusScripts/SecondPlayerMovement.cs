@@ -84,7 +84,7 @@ public class SecondPlayerMovement : MonoBehaviour
 
         if (col.gameObject.tag == "Shield" && hasBomb)
         {
-            BombContr.ChangeTags(2, 3);
+            BombContr.PassToNext(2);
             Destroy(col.gameObject);
         }
 
