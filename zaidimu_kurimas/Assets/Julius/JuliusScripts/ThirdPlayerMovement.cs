@@ -86,7 +86,7 @@ public class ThirdPlayerMovement : MonoBehaviour
 
         if (col.gameObject.tag == "Shield" && hasBomb)
         {
-            BombContr.PassToNext(3);
+            BombContr.ChangeTags(3, 4);
             Destroy(col.gameObject);
         }
 
