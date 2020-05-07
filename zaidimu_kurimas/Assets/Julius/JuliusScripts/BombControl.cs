@@ -26,7 +26,10 @@ public class BombControl : MonoBehaviour
     void Start()
     {
         BombExplodes = BombExplodesAfter;
+        playersCount = AddPlayer.howManyPlayers;
         SelectPlayers(playersCount);
+        BombTimerText.text = "Hurry up! Potion will explode at any time!";
+
     }
 
     // Update is called once per frame
@@ -47,6 +50,10 @@ public class BombControl : MonoBehaviour
         if (CheckIfGameHasEnded())
         {
             BombTimerText.text = WhichHasWon();
+            firstPlayer.hasBomb = false;
+            secondPlayer.hasBomb = false;
+            thirdPlayer.hasBomb = false;
+            fourthPlayer.hasBomb = false;
         }
         else
         {
