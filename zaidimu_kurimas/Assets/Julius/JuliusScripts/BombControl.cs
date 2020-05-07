@@ -18,7 +18,7 @@ public class BombControl : MonoBehaviour
     public float BombExplodesAfter = 5;
     float BombExplodes;
 
-    public TextMesh BombTimerText;
+    public Text BombTimerText;
 
     public int playersCount = 4;
     
@@ -26,8 +26,10 @@ public class BombControl : MonoBehaviour
     void Start()
     {
         BombExplodes = BombExplodesAfter;
+        playersCount = AddPlayer.howManyPlayers;
         SelectPlayers(playersCount);
         BombTimerText.text = "Hurry up! Potion will explode at any time!";
+
     }
 
     // Update is called once per frame
@@ -48,14 +50,14 @@ public class BombControl : MonoBehaviour
         if (CheckIfGameHasEnded())
         {
             BombTimerText.text = WhichHasWon();
+            firstPlayer.hasBomb = false;
+            secondPlayer.hasBomb = false;
+            thirdPlayer.hasBomb = false;
+            fourthPlayer.hasBomb = false;
         }
         else
         {
-            if (BombExplodes < 5)
-            {
-                BombTimerText.text = Convert.ToString(Math.Round(BombExplodes));
-            }
-
+            BombTimerText.text = Convert.ToString(BombExplodes);
         }
         
         //Debug.Log(coolDownTimer);
@@ -107,9 +109,11 @@ public class BombControl : MonoBehaviour
                 }
                 
             }
-            BombTimerText.text = "Hurry up! Potion will explode at any time!";
+
             BombExplodes = BombExplodesAfter;
         }
+
+        
 
     }
 
@@ -207,7 +211,7 @@ public class BombControl : MonoBehaviour
         
     }
 
-    public void PassToNext(int current)
+    private void PassToNext(int current)
     {
         if(current == 1)
         {

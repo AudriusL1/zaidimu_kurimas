@@ -9,6 +9,7 @@ public class SecondPlayerMovement : MonoBehaviour
     public BombControl BombContr;
     public GameObject Explosion;
     SpriteRenderer render;
+    public Animator animator;
 
     public float runSpeed = 40f;
 
@@ -26,6 +27,7 @@ public class SecondPlayerMovement : MonoBehaviour
     void Update()
     {
         horizontalMove = Input.GetAxisRaw("Horizontal2") * runSpeed;
+        animator.SetFloat("speed", Mathf.Abs(horizontalMove));
 
         if (Input.GetButtonDown("Jump2"))
         {
@@ -84,7 +86,7 @@ public class SecondPlayerMovement : MonoBehaviour
 
         if (col.gameObject.tag == "Shield" && hasBomb)
         {
-            BombContr.PassToNext(2);
+            BombContr.ChangeTags(2, 3);
             Destroy(col.gameObject);
         }
 

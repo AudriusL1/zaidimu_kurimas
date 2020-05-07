@@ -8,6 +8,7 @@ public class FourthPlayerMovement : MonoBehaviour
     public BombControl BombContr;
     public GameObject Explosion;
     SpriteRenderer render;
+    public Animator animator;
 
     public float runSpeed = 40f;
 
@@ -27,6 +28,7 @@ public class FourthPlayerMovement : MonoBehaviour
     void Update()
     {
         horizontalMove = Input.GetAxisRaw("Horizontal4") * runSpeed;
+        animator.SetFloat("speed", Mathf.Abs(horizontalMove));
 
         if (Input.GetButtonDown("Jump4"))
         {
@@ -85,7 +87,7 @@ public class FourthPlayerMovement : MonoBehaviour
 
         if (col.gameObject.tag == "Shield" && hasBomb)
         {
-            BombContr.PassToNext(4);
+            BombContr.ChangeTags(4, 1);
             Destroy(col.gameObject);
         }
 

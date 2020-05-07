@@ -9,6 +9,7 @@ public class ThirdPlayerMovement : MonoBehaviour
     public BombControl BombContr;
     public GameObject Explosion;
     SpriteRenderer render;
+    public Animator animator;
 
     public float runSpeed = 40f;
 
@@ -28,6 +29,7 @@ public class ThirdPlayerMovement : MonoBehaviour
     void Update()
     {
         horizontalMove = Input.GetAxisRaw("Horizontal3") * runSpeed;
+        animator.SetFloat("speed", Mathf.Abs(horizontalMove));
 
         if (Input.GetButtonDown("Jump3"))
         {
@@ -86,7 +88,7 @@ public class ThirdPlayerMovement : MonoBehaviour
 
         if (col.gameObject.tag == "Shield" && hasBomb)
         {
-            BombContr.PassToNext(3);
+            BombContr.ChangeTags(3, 4);
             Destroy(col.gameObject);
         }
 

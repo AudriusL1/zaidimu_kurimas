@@ -8,8 +8,18 @@ TagManager:
   - Player2
   - Player3
   - Player4
+<<<<<<< HEAD
+<<<<<<< HEAD
   - RandomBuff
   - Shield
+  - AddThird
+  - AddFourth
+  - DeleteThird
+  - DeleteFourth
+=======
+>>>>>>> f119b51780354b3e49f0a157532bfac5744eaf43
+=======
+>>>>>>> f119b51780354b3e49f0a157532bfac5744eaf43
   layers:
   - Default
   - TransparentFX
