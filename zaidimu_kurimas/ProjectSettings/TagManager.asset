@@ -8,6 +8,12 @@ TagManager:
   - Player2
   - Player3
   - Player4
+  - obstacle
+  - finish1
+  - finish2
+  - finish3
+  - finish4
+  - apple
   layers:
   - Default
   - TransparentFX
@@ -17,8 +23,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - ground
+  - obstacles
   - 
   - 
   - 
